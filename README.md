@@ -12,9 +12,9 @@ This project was built as part of the practical applications in the **"Algorithm
 
 ---
 
-## 🆚 V2 vs Previous Version
+## 🆚 V3 vs Previous Version
 
-| Feature | Bank System Previous Version | Bank System V2 |
+| Feature | Bank System Previous Version | Bank System V3 |
 |---------|------------------------------|----------------|
 | Login System | ❌ | ✅ |
 | User Management | ❌ | ✅ |
