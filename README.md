@@ -1,4 +1,4 @@
- Bank System V2 (C++) 🏦
+ Bank System V3 (C++) 🏦
 
 A console-based banking application built in C++, featuring a complete login system with user management and role-based access control. This is an upgraded version of my previous bank system, adding multi-user support, permissions management, and a secure login screen.
 
@@ -8,14 +8,14 @@ This is my fourth practical programming project in C++, built to apply more adva
 
 ## 🎓 Learning and Programming Foundation
 
-This project was built as part of the practical applications in the **"Algorithms and Problem Solving - Level 3 (Course 7)"** course on [programmingadvices.com](https://programmingadvices.com), under the supervision of engineer **Mohammed Abu Hadhoud** 👑 ([LinkedIn](https://www.linkedin.com/in/abuhadhoud)).
+This project was built as part of the practical applications in the **"Algorithms and Problem Solving - Level 4 (Course 8)"** course on [programmingadvices.com](https://programmingadvices.com), under the supervision of engineer **Mohammed Abu Hadhoud** 👑 ([LinkedIn](https://www.linkedin.com/in/abuhadhoud)).
 
 ---
 
 ## 🆚 V2 vs Previous Version
 
-| Feature | Bank System V1 | Bank System V2 |
-|---------|---------------|----------------|
+| Feature | Bank System Previous Version | Bank System V2 |
+|---------|------------------------------|----------------|
 | Login System | ❌ | ✅ |
 | User Management | ❌ | ✅ |
 | Access Permissions | ❌ | ✅ |
