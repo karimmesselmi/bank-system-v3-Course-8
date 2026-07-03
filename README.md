@@ -112,28 +112,28 @@ You need a C++ compiler installed (like **GCC** on Linux/Mac or **MinGW** on Win
 
 1. Clone this project:
 ```bash
-git clone https://github.com/karimmesselmi/bank-system-v2.git
+git clone https://github.com/karimmesselmi/bank-system-v3-Course-8.git
 ```
 
 2. Go to the project folder:
 ```bash
-cd bank-system-v2
+cd bank-system-v3-Course-8
 ```
 
 3. Compile the final version:
 ```bash
-g++ Bank_System_FinalSolution.cpp -o BankSystemV2
+g++ Bank_System_FinalSolution.cpp -o BankSystemV3
 ```
 
 4. Run the program:
 
 On Windows:
 ```bash
-BankSystemV2
+BankSystemV3
 ```
 On Linux/Mac:
 ```bash
-./BankSystemV2
+./BankSystemV3
 ```
 
 > **Note:** On first run, make sure a `Users.txt` file exists with at least one admin account in the format: `Admin#//#1234#//#-1`
